@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"5cb95be9-bc18-457b-8570-9187a581b36e",
+	"author":	"",
+	"description":	{
+		"":	"shows the number of vertices of a selected face\n\ncloned from Brian Ekins ShowProxy"
+	},
+	"version":	"",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
